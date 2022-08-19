@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+Last 5 years I worked in a casino as a dealer. I decide to change my life in adition start a journey with a QA. I finished the manual tester course and I hope that I will join to group of testers . Also I have experience working as part of a team and individually.
 ## TOOLS
 * Jira
 * TestLink
