@@ -31,7 +31,8 @@ Szkolenie Indywidualne tester manualny 18.08.2022
 ## MY BUGS FOR 
 * [nazwa buga](link do buga z google drive)
 * [nazwa buga](link do buga z google drive)
-
+## MY MINDMAP FOR Vod.TVP.pl
+https://drive.google.com/file/d/1QLEz9H-S3ZJzhIxToM1slofe-ZWbl66d/view?usp=sharing
 ## MY REPORT
 ## MY REPORT FOR Vod.TVP.pl
 * [Report PDF](https://drive.google.com/file/d/1vPd-F1sCH7n_dlQA9ywDTpKO92NFuLIT/view?usp=sharing)
