@@ -29,7 +29,7 @@ Szkolenie Indywidualne tester manualny 18.08.2022
 * [Test cases](https://drive.google.com/file/d/1sITYKaGnFuajzL_MFL6GR1SphULLv9Gp/view?usp=sharing)
 ## MY BUGS
 ## MY BUGS FOR 
-* [nazwa buga](link do buga z google drive)
+* [Bug przy zmianie jakości na 360p](https://docs.google.com/document/d/1g0-BjvVD-x_vp5v65LxEh1ZlMmQNzOpM/edit?usp=sharing&ouid=112816948557501463608&rtpof=true&sd=true)
 * [nazwa buga](link do buga z google drive)
 ## MY MINDMAP FOR Vod.TVP.pl
 https://drive.google.com/file/d/1QLEz9H-S3ZJzhIxToM1slofe-ZWbl66d/view?usp=sharing
