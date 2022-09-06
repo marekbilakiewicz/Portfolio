@@ -5,11 +5,14 @@ Last 5 years I worked in a casino as a dealer. I decide to change my life in adi
 * Jira
 * TestLink
 * GitHub
+* Postman
 ## TECH SKIILS
 * Software testing
 * Creating test cases
 * Reporting bugs
 * SQL
+* HTML
+* CSS
 * SCRUM
 ## CERTIFICATES
 Szkolenie Indywidualne tester manualny 18.08.2022
