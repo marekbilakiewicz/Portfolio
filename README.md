@@ -5,6 +5,7 @@ Last 5 years I worked in a casino as a dealer. I decide to change my life in adi
 * Jira
 * TestLink
 * GitHub
+* TestRail
 ## TECH SKIILS
 * Software testing
 * Creating test cases
