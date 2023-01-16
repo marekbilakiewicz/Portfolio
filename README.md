@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-Last 5 years I worked in a casino as a dealer. I decide to change my life in adition start a journey with a QA. I finished the manual tester course and I hope that I will join to group of testers . Also I have experience working as part of a team and individually.
+Last 5 years I worked in a casino as a dealer. I finished the manual tester course and now I'm working as a Functional game tester in the Lionbridge. Also I have experience working as part of a team and individually. I am a fast learner and like to set new challenges.
 ## TOOLS
 * Jira
 * TestLink
